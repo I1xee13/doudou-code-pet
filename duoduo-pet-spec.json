@@ -1,0 +1,38 @@
+{
+  "petName": "Duoduo",
+  "displayName": "朵朵",
+  "style": "realistic-cartoon",
+  "identityLock": {
+    "species": "small white Maltese-like dog",
+    "coat": "fluffy white coat with soft natural texture; not plush-toy texture",
+    "face": "large round dark eyes, small black nose, slightly cream-toned long muzzle/moustache fur",
+    "ears": "small soft drop ears",
+    "body": "compact small-dog proportions, short legs; keep realistic anatomy",
+    "avoid": [
+      "oversized chibi head",
+      "tiny toy body",
+      "anime eyes",
+      "plush doll texture",
+      "human hands or human body",
+      "changing facial markings or coat color between states"
+    ]
+  },
+  "animationStates": {
+    "idle": "Relaxed resting/sitting idle. Subtle breathing, blinking, tiny head or ear motion. Clearly alive but calm.",
+    "running-right": "Duoduo runs toward screen-right with a natural small-dog gait. No speed lines or dust.",
+    "running-left": "Duoduo runs toward screen-left with the same identity and natural gait. No speed lines or dust.",
+    "waving": "Duoduo sits and lifts the right front paw in a cute greeting wave; keep canine anatomy.",
+    "jumping": "Happy compact hop with all four paws briefly off the ground, then landing-ready pose; no detached effects.",
+    "failed": "Duoduo lies flat or slumps sadly with droopy expression, looking disappointed but cute.",
+    "waiting": "Duoduo waits attentively. On the special gesture: right front paw moves from beside the right eye downward toward the neck/chest twice; left front paw stays still. Adapt the gesture naturally to dog anatomy.",
+    "running": "Codex working state: Duoduo happily eats or carries a small piece of bread/toast while staying mostly in place; this is NOT directional running.",
+    "review": "Duoduo carefully reviews/reads beside a small laptop or document; optional round glasses, focused expression."
+  },
+  "optionalProps": {
+    "raincoat": "transparent raincoat with bright blue trim based on reference photo",
+    "pinkMat": "soft pink resting mat",
+    "bread": "small toast/bread prop",
+    "glasses": "simple round reading glasses",
+    "laptop": "small neutral laptop with no visible brand/logo"
+  }
+}
